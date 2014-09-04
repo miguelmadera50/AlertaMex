@@ -1,9 +1,13 @@
 AlertaMex --- Solucion a Reto Alerta MX
 =========
 
-Esta aplicacion simplemente Analiza datos almacendos en formato XML y los presenta al usuario.
-Demo fue requerido para la evaluacion de la primera etapa del reto.
+Demo: Simple XML Parser
 
+Esta aplicacion para Android simplemente analiza datos almacendos en formato XML y los presenta al usuario.
+La informacion utilizada en esta aplicacion es un ejemplo de los datos CAP (Common alert Protocol):
+http://docs.oasis-open.org/emergency/cap/v1.2/CAP-v1.2-os.html
+
+Demo es un requisito para la evaluacion de la primera etapa del reto.
 
 Resultados de la propuesta:
 
